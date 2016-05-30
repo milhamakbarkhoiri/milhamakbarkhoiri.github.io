@@ -3,9 +3,6 @@ layout: post
 ---
 <img src="/images/1.jpg" class="fit image">
 <img src="/images/2 (2).jpg" class="fit image">
-<img src="/images/3 (3).jpg" class="fit image">
 <img src="/images/4.jpg" class="fit image">
 <img src="/images/5.jpg" class="fit image">
 <img src="/images/6.jpg" class="fit image">
-<img src="/images/7.jpg" class="fit image">
-<img src="/images/8.jpg" class="fit image">
