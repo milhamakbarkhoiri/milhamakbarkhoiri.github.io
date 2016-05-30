@@ -1,4 +1,4 @@
 ---
 layout: post
 ---
-<img src="/images/bunga.jpg" class="fit image">
+<img src="/images/HPE_2372.jpg" class="fit image">
