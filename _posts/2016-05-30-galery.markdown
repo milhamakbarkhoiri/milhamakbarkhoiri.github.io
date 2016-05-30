@@ -1,1 +1,8 @@
+---
+layout: post
+---
+<img src="/images/1.jpg" class="fit image"></br>
+<img src="/images/2 (2).jpg" class="fit image"></br>
+<img src="/images/3 (3).jpg" class="fit image"></br>
+<img src="/images/4.jpg" class="fit image">
 
