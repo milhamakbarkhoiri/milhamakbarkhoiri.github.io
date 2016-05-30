@@ -1,7 +1,7 @@
 # Site settings
 
-title: tyafhs # Title of your site
-email: tyafhs@gmail.com # Your contant email
+title: milham # Title of your site
+email: mohdilhamakbarkhoiri@gmail.com # Your contant email
 
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -14,9 +14,9 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 # Replace the word 'example' with your username if you want to include the icon in the left sidebar
 # Delete the word 'example' if you don't want to include the icon in the left sidebar
 
-twitter_username:     example  # tyafhs
-github_username:      example  # tyafhs
-facebook_username:    example  # fathiya.sibarani
+twitter_username:     example  # rt_ilham
+github_username:      example  # milhamakbarkhoiri
+facebook_username:    example  # muhammad ilham akbar khoiri
 
 # Build settings
 markdown: kramdown
